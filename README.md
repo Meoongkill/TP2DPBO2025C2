@@ -15,6 +15,7 @@ Atribut :
 - Category                 - Kategori Produk Petshop
 - Price                    - Harga Produk Petshop
 - Stock                    - Stok Produk Petshop
+  
 Methode :
 - Setter_Data              - Mengatur Data Produk Petshop
 - Getter_ID                - Mendapatkan ID Produk Petshop
@@ -29,6 +30,7 @@ Atribut :
 - Size                     - Ukuran Aksesories (Besar/Kecil)
 - Material                 - Material Aksesories
 - Brand                    - Brand Aksesories
+  
 Methode :
 - Setting_Data_Aksesories  - Mengatur Data Aksesories Petshop
 - Getter_Size              - Mendapatkan Ukuran Aksesories Petshop
@@ -40,6 +42,7 @@ Atribut :
 - Factory                  - Pabrik Baju
 - Classification           - Klasifikasi / Kategori Baju
 - Type                     - Tipe Baju (Reusable/Lembiru)
+  
 Methode :
 - Setting_Data_Baju        - Mengatur Data Baju Petshop
 - Getter_Factory           - Mendapatkan Pabrik Baju Petshop
@@ -55,6 +58,7 @@ Atribut :
 - Price                    - Harga Produk Petshop
 - Stock                    - Stok Produk Petshop
 - Photo                    - Foto Produk Petshop
+  
 Methode :
 - Setter_Data              - Mengatur Data Produk Petshop
 - Getter_ID                - Mendapatkan ID Produk Petshop
@@ -69,6 +73,7 @@ Atribut :
 - Size                     - Ukuran Aksesories (Besar/Kecil)
 - Material                 - Material Aksesories
 - Brand                    - Brand Aksesories
+  
 Methode :
 - Setting_Data_Aksesories  - Mengatur Data Aksesories Petshop
 - Getter_Size              - Mendapatkan Ukuran Aksesories Petshop
@@ -80,6 +85,7 @@ Atribut :
 - Factory                  - Pabrik Baju
 - Classification           - Klasifikasi / Kategori Baju
 - Type                     - Tipe Baju (Reusable/Lembiru)
+  
 Methode :
 - Setting_Data_Baju        - Mengatur Data Baju Petshop
 - Getter_Factory           - Mendapatkan Pabrik Baju Petshop
