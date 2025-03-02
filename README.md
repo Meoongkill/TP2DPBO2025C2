@@ -87,21 +87,20 @@ Methode :
 - Getter_Type              - Mendapatkan Tipe Baju Petshop
 
 # Alur Program
-- Akan disambut oleh pesan "Selamat datang Admin Acin Miau Petshopp" etc
-- Akan ada Tampilan menu, yang berisi 6 Tindakan yang dapat dilakukan user
+a. Akan disambut oleh pesan "Selamat datang Admin Acin Miau Petshopp" etc
+b. Akan ada Tampilan menu, yang berisi 6 Tindakan yang dapat dilakukan user
 
-- 6 Tindakan yang dapat dilakukan user antara lain adalah sebagai berikut:
-- [1] Mau Print data yang ada di database                       'Menampilkan Data'
-- [2] Mau Add data Petshop baru                              'Menambahkan Petshop'
-- [3] Mau Add data Aksesories baru                        'Menambahkan Aksesories'
-- [4] Mau Add data Baju baru                            'Menambahkan Baju'
-- [5] About database                                  'Yapping'
-- [6] Mau Exit database                             'Keluar'
+c. 6 Tindakan yang dapat dilakukan user antara lain adalah sebagai berikut:
+  - [1] Mau Print data yang ada di database                       'Menampilkan Data'
+  - [2] Mau Add data Petshop baru                              'Menambahkan Petshop'
+  - [3] Mau Add data Aksesories baru                        'Menambahkan Aksesories'
+  - [4] Mau Add data Baju baru                            'Menambahkan Baju'
+  - [5] About database                                  'Yapping'
+  - [6] Mau Exit database                             'Keluar'
 
-- Ada 5 Program Inputan awal, yang harus tersedia di file codingan. 
-- Dalam program ini, ID menjadi Primary Key untuk mengubah data.
-- ID tidak boleh sama dengan yang tersedia di list.
-- ID harus terdaftar jika melakukan Add Data. Karena bakalan menyebabkan error kalau nggak ada.
-- Jika Inputan tidak sesuai dengan permintaan, maka akan muncul error (dalam kasus saya, mungkin akan menjadi infinite looping.
-
-Dokumentasi sudah saya sertakan di tiap Filenya. Silahkan dibuka sendiri sir.
+d. Ada 5 Program Inputan awal, yang harus tersedia di file codingan. 
+e. Dalam program ini, ID menjadi Primary Key untuk mengubah data.
+f. ID tidak boleh sama dengan yang tersedia di list.
+g. ID harus terdaftar jika melakukan Add Data. Karena bakalan menyebabkan error kalau nggak ada.
+h. Jika Inputan tidak sesuai dengan permintaan, maka akan muncul error (dalam kasus saya, mungkin akan menjadi infinite looping.
+i. Dokumentasi sudah saya sertakan di tiap Filenya. Silahkan dibuka sendiri sir.
