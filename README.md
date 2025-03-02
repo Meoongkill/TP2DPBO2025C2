@@ -98,9 +98,9 @@ c. 6 Tindakan yang dapat dilakukan user antara lain adalah sebagai berikut:
   - [5] About database                                  'Yapping'
   - [6] Mau Exit database                             'Keluar'
 
-d. Ada 5 Program Inputan awal, yang harus tersedia di file codingan. 
-e. Dalam program ini, ID menjadi Primary Key untuk mengubah data.
-f. ID tidak boleh sama dengan yang tersedia di list.
-g. ID harus terdaftar jika melakukan Add Data. Karena bakalan menyebabkan error kalau nggak ada.
-h. Jika Inputan tidak sesuai dengan permintaan, maka akan muncul error (dalam kasus saya, mungkin akan menjadi infinite looping.
-i. Dokumentasi sudah saya sertakan di tiap Filenya. Silahkan dibuka sendiri sir.
+d. Ada 5 Program Inputan awal, yang harus tersedia di file codingan
+e. Dalam program ini, ID menjadi Primary Key untuk mengubah data
+f. ID tidak boleh sama dengan yang tersedia di list
+g. ID harus terdaftar jika melakukan Add Data. Karena bakalan menyebabkan error kalau nggak ada
+h. Jika Inputan tidak sesuai dengan permintaan, maka akan muncul error (dalam kasus saya, mungkin akan menjadi infinite looping
+i. Dokumentasi sudah saya sertakan di tiap Filenya. Silahkan dibuka sendiri sir
