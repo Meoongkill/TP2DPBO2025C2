@@ -1,3 +1,9 @@
+111, "Royal_Canon", "Makanan", 68000, 32
+221, "Kandang_Anjing", "Aksesories", 650000, 3, "Besar", "Alumunium", "EA_Shop"
+222, "Bantal_Kucing", "Aksesories", 150000, 5, "Kecil", "Cotton", "Supreme"
+331, "Dog Sweater", "Baju", 85000, 4, "Besar", "Wol", "H&M", "Bandung", "Adult", "Reusable"
+332, "Cat Raincoat", "Baju", 95000, 6, "Kecil", "Plastik", "Zara", "Jogya", "Toodler", "Lembiru"
+=================================================================================================
 PETSHOP
 111, "Royal_Canon", "Makanan", 68000, 32
 
